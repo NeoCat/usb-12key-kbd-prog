@@ -1,7 +1,7 @@
 # usb-12key-kbd-prog
 
 This command line tool is to program 6/9/12 Bluetooth/USB keyboard:
-<a href="https://www.amazon.co.jp/gp/product/B0B6TS4DCV?ie=UTF8&th=1&linkCode=li2&tag=neocat-22&linkId=8935c929955d3e1c599093cf99bff6f8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B6TS4DCV&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=neocat-22&language=ja_JP" >6/9/12 Bluetooth/USB Keyboard with knobs</a>
+<a href="https://www.amazon.co.jp/gp/product/B0B6TS4DCV?ie=UTF8&th=1&linkCode=li2&tag=neocat-22&linkId=8935c929955d3e1c599093cf99bff6f8&language=ja_JP&ref_=as_li_ss_il" target="_blank"><img border="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B6TS4DCV&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=neocat-22&language=ja_JP" >6/9/12 Bluetooth/USB Keyboard with knobs</a>
 
 
 ## Build
