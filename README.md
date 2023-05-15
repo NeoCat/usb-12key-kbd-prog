@@ -12,7 +12,11 @@ This command line tool is to program 6/9/12 Bluetooth/USB keyboard:
     - (Linux/debian etc.) apt install libusb-1.0-0-dev
     - (Linux/fedora etc.) dnf install libusb1-devel
 - make
-    - `#include` in .c file maybe modified to `<libusb-1.0/libusb.h>` in Linux
+```
+./autogen.h
+make
+make install
+```
 
 ## Usage
 ```
