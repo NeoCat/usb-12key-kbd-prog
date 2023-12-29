@@ -13,13 +13,13 @@ echo ""
 
 ./usb-12key-kbd-prog 1 1 d
 ./usb-12key-kbd-prog 1 2 b
-./usb-12key-kbd-prog 1 3 3
+./usb-12key-kbd-prog 1 3 v
 ./usb-12key-kbd-prog 1 4 s
 ./usb-12key-kbd-prog 1 5 a
-./usb-12key-kbd-prog 1 6 2
+./usb-12key-kbd-prog 1 6 x
 ./usb-12key-kbd-prog 1 7 g
 ./usb-12key-kbd-prog 1 8 h
-./usb-12key-kbd-prog 1 9 1
+./usb-12key-kbd-prog 1 9 z
 ./usb-12key-kbd-prog 1 13 n
 ./usb-12key-kbd-prog 1 14 c
 ./usb-12key-kbd-prog 1 15 n
@@ -33,7 +33,7 @@ echo "| g | s | d |  | n, c, n|"
 echo "-------------   -------- "
 echo "| h | a | b |            "
 echo "-------------   -------- "
-echo "| 1 | 2 | 3 |  | n, n, n|"
+echo "| z | x | v|  | n, n, n|"
 echo "-------------   -------- "
 echo "g : AGL Flutter demo IVI CES2024"
 echo "s : AGL Flutter demo IVI CES2023"
@@ -42,7 +42,7 @@ echo "h : AGL HTML5 demo IVI"
 echo "a : AGL Momi demo IVI"
 echo "b : AGL Safe Momi demo IVI"
 echo "c : force reboot guest"
-echo "1: Teltail 1"
-echo "2: Teltail 2"
-echo "3: Teltail 3"
+echo "z : Teltail 1"
+echo "x : Teltail 2"
+echo "v : Teltail 3"
 echo ""
